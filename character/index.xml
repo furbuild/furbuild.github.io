@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characters on Furbuild</title>
+    <link>http://furbuild.com/character/</link>
+    <description>Recent content in Characters on Furbuild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Tue, 09 Feb 2016 18:15:02 +0100</lastBuildDate>
+    <atom:link href="http://furbuild.com/character/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Caraid – &#34;The Kitten&#34;</title>
+      <link>http://furbuild.com/character/caraid/</link>
+      <pubDate>Tue, 09 Feb 2016 18:15:02 +0100</pubDate>
+      
+      <guid>http://furbuild.com/character/caraid/</guid>
+      <description>&lt;p&gt;Caraid or commonly known as Cara, is a mischievous Caracal. The name &lt;em&gt;&amp;ldquo;caraid&amp;rdquo;&lt;/em&gt; is Scottish Gaelic for the English word &lt;em&gt;&amp;ldquo;friend&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zee – &#34;The Beast&#34;</title>
+      <link>http://furbuild.com/character/zee/</link>
+      <pubDate>Tue, 09 Feb 2016 18:14:04 +0100</pubDate>
+      
+      <guid>http://furbuild.com/character/zee/</guid>
+      <description>&lt;p&gt;Zee is a curious Horned Black Leopard.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
