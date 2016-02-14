@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://furbuild.com/</loc>
-    <lastmod>2016-02-14T20:20:00+01:00</lastmod>
+    <lastmod>2016-02-14T20:35:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://furbuild.com/post/working-with-foam/</loc>
+    <lastmod>2016-02-14T20:35:00+01:00</lastmod>
   </url>
   
   <url>
