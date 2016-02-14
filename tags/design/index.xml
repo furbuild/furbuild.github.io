@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Furbuild</title>
+    <link>http://furbuild.com/tags/design/</link>
+    <description>Recent content in Design on Furbuild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Sun, 14 Feb 2016 20:20:00 +0100</lastBuildDate>
+    <atom:link href="http://furbuild.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designing and measuring heads</title>
+      <link>http://furbuild.com/post/designing-and-measuring-heads/</link>
+      <pubDate>Sun, 14 Feb 2016 20:20:00 +0100</pubDate>
+      
+      <guid>http://furbuild.com/post/designing-and-measuring-heads/</guid>
+      <description>
+
+&lt;p&gt;Before we could begin with plotting out the foam to carve the prototype fursuit head, we needed a reference to work from.
+Since we did not have our own mannequin heads yet, I looked up images of head bases in Google and found a convenient turnaround which I loaded in Photoshop and laid out in such a way that I could easily sketch over it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://furbuild.com/images/head-turnaround.jpg&#34; alt=&#34;Convenient turnaround&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;to-the-drawing-board:bd6efe38cf959a7fa683dd2331df3df2&#34;&gt;To the Drawing Board&lt;/h4&gt;
+
+&lt;p&gt;Since I am more familiar with &lt;a href=&#34;http://furbuild.com/character/caraid&#34;&gt;my own character&lt;/a&gt; I started with her.
+Initially, we wanted to go for a more realistic approach but weren&amp;rsquo;t happy with the way it looked.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://furbuild.com/images/sketch-realistic-caraid.jpg&#34; alt=&#34;Realistic Caraid sketch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So instead, we went for slightly more stylized heads, with larger eyes, a more expressive face and slightly exaggerated proportions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://furbuild.com/images/sketch-stylized-caraid.jpg&#34; alt=&#34;Stylized Caraid sketch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After having sketched out my own character, it was easy enough to translate the features and proportions onto &lt;a href=&#34;http://furbuild.com/character/zee&#34;&gt;Zee&amp;rsquo;s&lt;/a&gt; head.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://furbuild.com/images/sketch-stylized-zee.jpg&#34; alt=&#34;Stylized Zee sketch&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While not relevant yet, I was curious to see what our characters would look like in color so I roughed in their colorations after having finished the sketches.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://furbuild.com/images/sketch-color-zee-cara.jpg&#34; alt=&#34;Zee &amp;amp; Cara in color&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;getting-the-measurements:bd6efe38cf959a7fa683dd2331df3df2&#34;&gt;Getting the measurements&lt;/h4&gt;
+
+&lt;p&gt;Obviously, the digital head I had in Photoshop and our mannequins were not of the same size, so to translate my sketches into real life measurements I had to calculate the ratio between the virtual head and the real one.
+We did this by measuring the width of our mannequins at the widest part of the head, then measuring the width of the digital mannequin (Photoshop has a ruler tool which you can use for this).&lt;/p&gt;
+
+&lt;p&gt;While the exact measurements are not particularly relevant for this article, we found out that the digital head was &lt;code&gt;10cm&lt;/code&gt; wide, and the real one &lt;code&gt;19cm&lt;/code&gt;.
+This meant that the ratio for all of the measurements was &lt;code&gt;1.9:1&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;So, all we had to do now was get the measurements of the sketch, multiply them by &lt;code&gt;1.9&lt;/code&gt; and we would have the real life measurements.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YRL4uIVzVWI&#34;&gt;&lt;strong&gt;Yeah science!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
